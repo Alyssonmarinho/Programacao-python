@@ -1,12 +1,13 @@
-# Pensamento Computacional — UFRN
+# Programação em Python
 
-Exercícios e listas da disciplina de Pensamento Computacional do Bacharelado em Tecnologia da Informação (BIT) — UFRN.
+Repositório criado para reunir os exercícios e códigos desenvolvidos durante a matéria de Introdução às Técnicas de Programação, da UFRN, usando a linguagem Python.
 
-## Estrutura
+## Sobre
 
-- `unidade-3/lista-1/` — Lista 1 da 3ª Unidade
-- `unidade-3/lista-2/` — Lista 2 da 3ª Unidade
+Este repositório serve como registro do meu aprendizado em Python. Ele contém apenas a parte da unidade em que começamos a programar em Python de verdade.
 
-## Tecnologias
+As atividades propostas foram feitas na plataforma **Trinket**. Esse site não existe mais, pois foi desativado, mas os registros das atividades continuam guardados aqui.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+## Projetos pessoais
+
+Além dos exercícios da disciplina, este repositório também vai reunir alguns projetos que desenvolvi em Python, com o objetivo de praticar mais a programação e entender melhor a linguagem.
