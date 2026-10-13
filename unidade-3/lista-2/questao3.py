@@ -15,7 +15,7 @@ for i in range(ncasos):
     print(soma)
 
 
-# OUUU
+# Também pode ser feito como
 
 # valores = input().split()
 # n = int(valores[0])
